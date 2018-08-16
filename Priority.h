@@ -1,9 +1,7 @@
 // Priority.h
 //
 // PriorityQueue: binary heap priority queue
-//
-// Copyright 2013 Systems Deployment, LLC
-// Author: Morris Bernstein (morris@systems-deployment.com)
+
 
 #if !defined(CSS343_PRIORITY_H)
 #define CSS343_PRIORITY_H

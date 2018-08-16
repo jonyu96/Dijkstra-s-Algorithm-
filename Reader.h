@@ -4,7 +4,7 @@
 //
 //  Created by Jonathan Yu on 5/28/18.
 //  Copyright © 2018 Jonathan Yu. All rights reserved.
-//
+
 
 #ifndef Reader_h
 #define Reader_h

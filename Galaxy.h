@@ -8,8 +8,6 @@
 // algorithm to find the minimum cost (earliest arrival time) between
 // pairs of planets.
 //
-// Copyright 2013, 2018 Systems Deployment, LLC
-// Author: Morris Bernstein (morris@systems-deployment.com)
 
 #if !defined(GALAXY_H)
 #define GALAXY_H
