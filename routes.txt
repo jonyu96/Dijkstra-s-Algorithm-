@@ -1,0 +1,376 @@
+#World 1: WELL-KNOWN WORLDS
+#World 2: PERLEMIAN TRADE ROUTE
+#World 3: FROM THE CORE TO THE OUTER RIM AND BEYOND
+#World 4: OTHER WORLDS AND REGIONS OF INTEREST
+#World 1 -- Ship #1
+Andromeda Ascendant	Sullust	0	Hoth	22
+Andromeda Ascendant	Hoth	26	Endor	86
+Andromeda Ascendant	Endor	90	Bespin	122
+Andromeda Ascendant	Bespin	126	Endor	158
+Andromeda Ascendant	Endor	162	Hoth	222
+Andromeda Ascendant	Hoth	226	Sullust	248
+Andromeda Ascendant	Sullust	252	Hoth	274
+Andromeda Ascendant	Hoth	278	Endor	338
+Andromeda Ascendant	Endor	342	Bespin	374
+Andromeda Ascendant	Bespin	378	Endor	410
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+Andromeda Ascendant	Sullust	504	Hoth	526
+Andromeda Ascendant	Hoth	530	Endor	590
+Andromeda Ascendant	Endor	594	Bespin	626
+Andromeda Ascendant	Bespin	630	Endor	662
+Andromeda Ascendant	Endor	666	Hoth	726
+Andromeda Ascendant	Hoth	730	Sullust	752
+Andromeda Ascendant	Sullust	756	Hoth	778
+Andromeda Ascendant	Hoth	782	Endor	842
+Andromeda Ascendant	Endor	846	Bespin	878
+Andromeda Ascendant	Bespin	882	Endor	914
+Andromeda Ascendant	Endor	918	Hoth	978
+Andromeda Ascendant	Hoth	982	Sullust	1004
+Andromeda Ascendant	Sullust	1008	Hoth	1030
+Andromeda Ascendant	Hoth	1034	Endor	1094
+Andromeda Ascendant	Endor	1098	Bespin	1130
+Andromeda Ascendant	Bespin	1134	Endor	1166
+Andromeda Ascendant	Endor	1170	Hoth	1230
+Andromeda Ascendant	Hoth	1234	Sullust	1256
+
+#World 1 -- Ship #2
+USSC Discovery One	Tatooine	0	Gamorr	40
+USSC Discovery One	Gamorr	44	Tatooine	84
+USSC Discovery One	Tatooine	88	Gamorr	128
+USSC Discovery One	Gamorr	132	Tatooine	172
+USSC Discovery One	Tatooine	176	Gamorr	216
+USSC Discovery One	Gamorr	220	Tatooine	260
+USSC Discovery One	Tatooine	264	Gamorr	304
+USSC Discovery One	Gamorr	308	Tatooine	348
+USSC Discovery One	Tatooine	352	Gamorr	392
+USSC Discovery One	Gamorr	396	Tatooine	436
+USSC Discovery One	Tatooine	440	Gamorr	480
+USSC Discovery One	Gamorr	484	Tatooine	524
+USSC Discovery One	Tatooine	528	Gamorr	568
+USSC Discovery One	Gamorr	572	Tatooine	612
+USSC Discovery One	Tatooine	616	Gamorr	656
+USSC Discovery One	Gamorr	660	Tatooine	700
+USSC Discovery One	Tatooine	704	Gamorr	744
+USSC Discovery One	Gamorr	748	Tatooine	788
+USSC Discovery One	Tatooine	792	Gamorr	832
+USSC Discovery One	Gamorr	836	Tatooine	876
+
+#World 1 -- Ship #3
+Galactica	Yavin	0	Alderaan	5
+Galactica	Alderaan	9	Dantooine	22
+Galactica	Dantooine	26	Dagobah	58
+Galactica	Dagobah	62	Dantooine	94
+Galactica	Dantooine	98	Alderaan	111
+Galactica	Alderaan	115	Yavin	120
+Galactica	Yavin	124	Alderaan	129
+Galactica	Alderaan	133	Dantooine	146
+Galactica	Dantooine	150	Dagobah	182
+Galactica	Dagobah	186	Dantooine	218
+Galactica	Dantooine	222	Alderaan	235
+Galactica	Alderaan	239	Yavin	244
+Galactica	Yavin	248	Alderaan	253
+Galactica	Alderaan	257	Dantooine	270
+Galactica	Dantooine	274	Dagobah	306
+Galactica	Dagobah	310	Dantooine	342
+Galactica	Dantooine	346	Alderaan	359
+Galactica	Alderaan	363	Yavin	368
+Galactica	Yavin	372	Alderaan	377
+Galactica	Alderaan	381	Dantooine	394
+Galactica	Dantooine	398	Dagobah	430
+Galactica	Dagobah	434	Dantooine	466
+Galactica	Dantooine	470	Alderaan	483
+Galactica	Alderaan	487	Yavin	492
+Galactica	Yavin	496	Alderaan	501
+Galactica	Alderaan	505	Dantooine	518
+Galactica	Dantooine	522	Dagobah	554
+Galactica	Dagobah	558	Dantooine	590
+Galactica	Dantooine	594	Alderaan	607
+Galactica	Alderaan	611	Yavin	616
+
+#World 1 to World 3 -- Ship #4
+Heart of Gold	Corellia	0	Alderaan	6
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+Heart of Gold	Corellia	51	Yaga Minor	63
+Heart of Gold	Yaga Minor	67	Corellia	79
+Heart of Gold	Corellia	83	Alderaan	89
+Heart of Gold	Alderaan	93	Bespin	101
+Heart of Gold	Bespin	105	Endor	137
+Heart of Gold	Endor	141	Corellia	158
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	203	Corellia	209
+Heart of Gold	Corellia	213	Yaga Minor	225
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Heart of Gold	Endor	303	Corellia	320
+Heart of Gold	Corellia	324	Alderaan	330
+Heart of Gold	Alderaan	334	Tatooine	341
+Heart of Gold	Tatooine	345	Bespin	361
+Heart of Gold	Bespin	365	Corellia	371
+Heart of Gold	Corellia	375	Yaga Minor	387
+Heart of Gold	Yaga Minor	391	Corellia	403
+Heart of Gold	Corellia	407	Alderaan	413
+Heart of Gold	Alderaan	417	Bespin	425
+Heart of Gold	Bespin	429	Endor	461
+Heart of Gold	Endor	465	Corellia	482
+Heart of Gold	Corellia	486	Alderaan	492
+Heart of Gold	Alderaan	496	Tatooine	503
+Heart of Gold	Tatooine	507	Bespin	523
+Heart of Gold	Bespin	527	Corellia	533
+Heart of Gold	Corellia	537	Yaga Minor	549
+Heart of Gold	Yaga Minor	553	Corellia	565
+Heart of Gold	Corellia	569	Alderaan	575
+Heart of Gold	Alderaan	579	Bespin	587
+Heart of Gold	Bespin	591	Endor	623
+Heart of Gold	Endor	627	Corellia	644
+Heart of Gold	Corellia	648	Alderaan	654
+Heart of Gold	Alderaan	658	Tatooine	665
+Heart of Gold	Tatooine	669	Bespin	685
+Heart of Gold	Bespin	689	Corellia	695
+Heart of Gold	Corellia	699	Yaga Minor	711
+Heart of Gold	Yaga Minor	715	Corellia	727
+Heart of Gold	Corellia	731	Alderaan	737
+Heart of Gold	Alderaan	741	Bespin	749
+Heart of Gold	Bespin	753	Endor	785
+Heart of Gold	Endor	789	Corellia	806
+
+#World 3 -- Ship #5
+Millenium Falcon	Yaga Minor	0	Kashyyyk	53
+Millenium Falcon	Kashyyyk	57	Yaga Minor	110
+Millenium Falcon	Yaga Minor	114	Kashyyyk	167
+Millenium Falcon	Kashyyyk	171	Yaga Minor	224
+Millenium Falcon	Yaga Minor	228	Kashyyyk	281
+Millenium Falcon	Kashyyyk	285	Yaga Minor	338
+Millenium Falcon	Yaga Minor	342	Kashyyyk	395
+Millenium Falcon	Kashyyyk	399	Yaga Minor	452
+Millenium Falcon	Yaga Minor	456	Kashyyyk	509
+Millenium Falcon	Kashyyyk	513	Yaga Minor	566
+Millenium Falcon	Yaga Minor	570	Kashyyyk	623
+Millenium Falcon	Kashyyyk	627	Yaga Minor	680
+Millenium Falcon	Yaga Minor	684	Kashyyyk	737
+Millenium Falcon	Kashyyyk	741	Yaga Minor	794
+
+#World 3 -- Ship #6
+Moya	Yaga Minor	0	Wayland	30
+Moya	Wayland	34	Myrkr	55
+Moya	Myrkr	59	Wayland	80
+Moya	Wayland	84	Yaga Minor	114
+Moya	Yaga Minor	118	Wayland	148
+Moya	Wayland	152	Myrkr	173
+Moya	Myrkr	177	Wayland	198
+Moya	Wayland	202	Yaga Minor	232
+Moya	Yaga Minor	236	Wayland	266
+Moya	Wayland	270	Myrkr	291
+Moya	Myrkr	295	Wayland	316
+Moya	Wayland	320	Yaga Minor	350
+Moya	Yaga Minor	354	Wayland	384
+Moya	Wayland	388	Myrkr	409
+Moya	Myrkr	413	Wayland	434
+Moya	Wayland	438	Yaga Minor	468
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+Moya	Myrkr	531	Wayland	552
+Moya	Wayland	556	Yaga Minor	586
+Moya	Yaga Minor	590	Wayland	620
+Moya	Wayland	624	Myrkr	645
+Moya	Myrkr	649	Wayland	670
+Moya	Wayland	674	Yaga Minor	704
+Moya	Yaga Minor	708	Wayland	738
+Moya	Wayland	742	Myrkr	763
+Moya	Myrkr	767	Wayland	788
+Moya	Wayland	792	Yaga Minor	822
+
+#World 2 -- Ship #7
+NSEA Protector	Ralltiir	0	Chandrila	4
+NSEA Protector	Chandrila	8	Esseles	11
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+NSEA Protector	Ralltiir	43	Chandrila	47
+NSEA Protector	Chandrila	51	Esseles	54
+NSEA Protector	Esseles	58	Corulag	62
+NSEA Protector	Corulag	66	Brentaal	68
+NSEA Protector	Brentaal	72	Rhinnal	77
+NSEA Protector	Rhinnal	81	Ralltiir	82
+NSEA Protector	Ralltiir	86	Chandrila	90
+NSEA Protector	Chandrila	94	Esseles	97
+NSEA Protector	Esseles	101	Corulag	105
+NSEA Protector	Corulag	109	Brentaal	111
+NSEA Protector	Brentaal	115	Rhinnal	120
+NSEA Protector	Rhinnal	124	Ralltiir	125
+NSEA Protector	Ralltiir	129	Chandrila	133
+NSEA Protector	Chandrila	137	Esseles	140
+NSEA Protector	Esseles	144	Corulag	148
+NSEA Protector	Corulag	152	Brentaal	154
+NSEA Protector	Brentaal	158	Rhinnal	163
+NSEA Protector	Rhinnal	167	Ralltiir	168
+NSEA Protector	Ralltiir	172	Chandrila	176
+NSEA Protector	Chandrila	180	Esseles	183
+NSEA Protector	Esseles	187	Corulag	191
+NSEA Protector	Corulag	195	Brentaal	197
+NSEA Protector	Brentaal	201	Rhinnal	206
+NSEA Protector	Rhinnal	210	Ralltiir	211
+NSEA Protector	Ralltiir	215	Chandrila	219
+NSEA Protector	Chandrila	223	Esseles	226
+NSEA Protector	Esseles	230	Corulag	234
+NSEA Protector	Corulag	238	Brentaal	240
+NSEA Protector	Brentaal	244	Rhinnal	249
+NSEA Protector	Rhinnal	253	Ralltiir	254
+NSEA Protector	Ralltiir	258	Chandrila	262
+NSEA Protector	Chandrila	266	Esseles	269
+NSEA Protector	Esseles	273	Corulag	277
+NSEA Protector	Corulag	281	Brentaal	283
+NSEA Protector	Brentaal	287	Rhinnal	292
+NSEA Protector	Rhinnal	296	Ralltiir	297
+NSEA Protector	Ralltiir	301	Chandrila	305
+NSEA Protector	Chandrila	309	Esseles	312
+NSEA Protector	Esseles	316	Corulag	320
+NSEA Protector	Corulag	324	Brentaal	326
+NSEA Protector	Brentaal	330	Rhinnal	335
+NSEA Protector	Rhinnal	339	Ralltiir	340
+NSEA Protector	Ralltiir	344	Chandrila	348
+NSEA Protector	Chandrila	352	Esseles	355
+NSEA Protector	Esseles	359	Corulag	363
+NSEA Protector	Corulag	367	Brentaal	369
+NSEA Protector	Brentaal	373	Rhinnal	378
+NSEA Protector	Rhinnal	382	Ralltiir	383
+NSEA Protector	Ralltiir	387	Chandrila	391
+NSEA Protector	Chandrila	395	Esseles	398
+NSEA Protector	Esseles	402	Corulag	406
+NSEA Protector	Corulag	410	Brentaal	412
+NSEA Protector	Brentaal	416	Rhinnal	421
+NSEA Protector	Rhinnal	425	Ralltiir	426
+
+#World 4 -- Ship #8
+Red Dwarf	Corporate Sector	0	Hapes Cluster	7
+Red Dwarf	Hapes Cluster	11	Kessel	23
+Red Dwarf	Kessel	27	Bakura	54
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+Red Dwarf	Corporate Sector	116	Hapes Cluster	123
+Red Dwarf	Hapes Cluster	127	Kessel	139
+Red Dwarf	Kessel	143	Bakura	170
+Red Dwarf	Bakura	174	Kessel	201
+Red Dwarf	Kessel	205	Hapes Cluster	217
+Red Dwarf	Hapes Cluster	221	Corporate Sector	228
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Red Dwarf	Bakura	290	Kessel	317
+Red Dwarf	Kessel	321	Hapes Cluster	333
+Red Dwarf	Hapes Cluster	337	Corporate Sector	344
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Red Dwarf	Bakura	406	Kessel	433
+Red Dwarf	Kessel	437	Hapes Cluster	449
+Red Dwarf	Hapes Cluster	453	Corporate Sector	460
+Red Dwarf	Corporate Sector	464	Hapes Cluster	471
+Red Dwarf	Hapes Cluster	475	Kessel	487
+Red Dwarf	Kessel	491	Bakura	518
+Red Dwarf	Bakura	522	Kessel	549
+Red Dwarf	Kessel	553	Hapes Cluster	565
+Red Dwarf	Hapes Cluster	569	Corporate Sector	576
+Red Dwarf	Corporate Sector	580	Hapes Cluster	587
+Red Dwarf	Hapes Cluster	591	Kessel	603
+Red Dwarf	Kessel	607	Bakura	634
+Red Dwarf	Bakura	638	Kessel	665
+Red Dwarf	Kessel	669	Hapes Cluster	681
+Red Dwarf	Hapes Cluster	685	Corporate Sector	692
+Red Dwarf	Corporate Sector	696	Hapes Cluster	703
+Red Dwarf	Hapes Cluster	707	Kessel	719
+Red Dwarf	Kessel	723	Bakura	750
+Red Dwarf	Bakura	754	Kessel	781
+Red Dwarf	Kessel	785	Hapes Cluster	797
+Red Dwarf	Hapes Cluster	801	Corporate Sector	808
+Red Dwarf	Corporate Sector	812	Hapes Cluster	819
+Red Dwarf	Hapes Cluster	823	Kessel	835
+Red Dwarf	Kessel	839	Bakura	866
+Red Dwarf	Bakura	870	Kessel	897
+Red Dwarf	Kessel	901	Hapes Cluster	913
+Red Dwarf	Hapes Cluster	917	Corporate Sector	924
+Red Dwarf	Corporate Sector	928	Hapes Cluster	935
+Red Dwarf	Hapes Cluster	939	Kessel	951
+Red Dwarf	Kessel	955	Bakura	982
+Red Dwarf	Bakura	986	Kessel	1013
+Red Dwarf	Kessel	1017	Hapes Cluster	1029
+Red Dwarf	Hapes Cluster	1033	Corporate Sector	1040
+Red Dwarf	Corporate Sector	1044	Hapes Cluster	1051
+Red Dwarf	Hapes Cluster	1055	Kessel	1067
+Red Dwarf	Kessel	1071	Bakura	1098
+Red Dwarf	Bakura	1102	Kessel	1129
+Red Dwarf	Kessel	1133	Hapes Cluster	1145
+Red Dwarf	Hapes Cluster	1149	Corporate Sector	1156
+
+#World 4 -- Ship #9
+Serenity	Bakura	0	Mon Calamari	22
+Serenity	Mon Calamari	26	Bakura	48
+Serenity	Bakura	52	Mon Calamari	74
+Serenity	Mon Calamari	78	Bakura	100
+Serenity	Bakura	104	Mon Calamari	126
+Serenity	Mon Calamari	130	Bakura	152
+Serenity	Bakura	156	Mon Calamari	178
+Serenity	Mon Calamari	182	Bakura	204
+Serenity	Bakura	208	Mon Calamari	230
+Serenity	Mon Calamari	234	Bakura	256
+Serenity	Bakura	260	Mon Calamari	282
+Serenity	Mon Calamari	286	Bakura	308
+Serenity	Bakura	312	Mon Calamari	334
+Serenity	Mon Calamari	338	Bakura	360
+Serenity	Bakura	364	Mon Calamari	386
+Serenity	Mon Calamari	390	Bakura	412
+Serenity	Bakura	416	Mon Calamari	438
+Serenity	Mon Calamari	442	Bakura	464
+Serenity	Bakura	468	Mon Calamari	490
+Serenity	Mon Calamari	494	Bakura	516
+
+#World 2 to World 4 -- Ship #10
+USS Enterprise	Corellia	0	Coruscant	4
+USS Enterprise	Coruscant	8	Corporate Sector	23
+USS Enterprise	Corporate Sector	27	Coruscant	42
+USS Enterprise	Coruscant	46	Ralltiir	58
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	78	Corporate Sector	93
+USS Enterprise	Corporate Sector	97	Coruscant	112
+USS Enterprise	Coruscant	116	Corellia	120
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	170	Ralltiir	182
+USS Enterprise	Ralltiir	186	Coruscant	198
+USS Enterprise	Coruscant	202	Corporate Sector	217
+USS Enterprise	Corporate Sector	221	Coruscant	236
+USS Enterprise	Coruscant	240	Corellia	244
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+USS Enterprise	Corporate Sector	275	Coruscant	290
+USS Enterprise	Coruscant	294	Ralltiir	306
+USS Enterprise	Ralltiir	310	Coruscant	322
+USS Enterprise	Coruscant	326	Corporate Sector	341
+USS Enterprise	Corporate Sector	345	Coruscant	360
+USS Enterprise	Coruscant	364	Corellia	368
+USS Enterprise	Corellia	372	Coruscant	376
+USS Enterprise	Coruscant	380	Corporate Sector	395
+USS Enterprise	Corporate Sector	399	Coruscant	414
+USS Enterprise	Coruscant	418	Ralltiir	430
+USS Enterprise	Ralltiir	434	Coruscant	446
+USS Enterprise	Coruscant	450	Corporate Sector	465
+USS Enterprise	Corporate Sector	469	Coruscant	484
+USS Enterprise	Coruscant	488	Corellia	492
+USS Enterprise	Corellia	496	Coruscant	500
+USS Enterprise	Coruscant	504	Corporate Sector	519
+USS Enterprise	Corporate Sector	523	Coruscant	538
+USS Enterprise	Coruscant	542	Ralltiir	554
+USS Enterprise	Ralltiir	558	Coruscant	570
+USS Enterprise	Coruscant	574	Corporate Sector	589
+USS Enterprise	Corporate Sector	593	Coruscant	608
+USS Enterprise	Coruscant	612	Corellia	616
+

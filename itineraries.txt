@@ -1,0 +1,275 @@
+ITINERARIES
+
+#Alderaan --> Mon Calamari
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+#Bespin --> Mon Calamari
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+#Corellia --> Sullust
+Heart of Gold	Corellia	0	Alderaan	6
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	105	Endor	137
+Andromeda Ascendant	Endor	162	Hoth	222
+Andromeda Ascendant	Hoth	226	Sullust	248
+
+#Coruscant --> Sullust
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Dagobah --> Sullust
+Galactica	Dagobah	62	Dantooine	94
+Galactica	Dantooine	98	Alderaan	111
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Dantooine --> Sullust
+Galactica	Dantooine	98	Alderaan	111
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Endor --> Mon Calamari
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+#Gamorr --> Sullust
+USSC Discovery One	Gamorr	44	Tatooine	84
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Hoth --> Mon Calamari
+Andromeda Ascendant	Hoth	26	Endor	86
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+#Sullust --> Mon Calamari
+Andromeda Ascendant	Sullust	0	Hoth	22
+Andromeda Ascendant	Hoth	26	Endor	86
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+#Tatooine --> Mon Calamari
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+#Yavin --> Mon Calamari
+Galactica	Yavin	0	Alderaan	5
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+#Brentaal --> Sullust
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Chandrila --> Sullust
+NSEA Protector	Chandrila	8	Esseles	11
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Corulag --> Sullust
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Esseles --> Sullust
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Rhinnal --> Sullust
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Ralltiir --> Sullust
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Kashyyyk --> Sullust
+Millenium Falcon	Kashyyyk	57	Yaga Minor	110
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Myrkr --> Sullust
+Moya	Myrkr	59	Wayland	80
+Moya	Wayland	84	Yaga Minor	114
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Wayland --> Sullust
+Moya	Wayland	84	Yaga Minor	114
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Yaga Minor --> Mon Calamari
+Heart of Gold	Yaga Minor	67	Corellia	79
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+#Bakura --> Myrkr
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+#Corporate Sector --> Sullust
+USS Enterprise	Corporate Sector	27	Coruscant	42
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+#Hapes Cluster --> Myrkr
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+#Kessel --> Myrkr
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+#Mon Calamari --> Myrkr
+Serenity	Mon Calamari	26	Bakura	48
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+

@@ -1,0 +1,1620 @@
+########## Galaxy ##########
+Number of Planets: 27
+
+- Alderaan -
+11 Destinations:
+	[Bespin: 8]
+	[Corellia: 6]
+	[Coruscant: 16]
+	[Dagobah: 30]
+	[Dantooine: 13]
+	[Endor: 18]
+	[Gamorr: 180]
+	[Hoth: 27]
+	[Sullust: 213]
+	[Tatooine: 7]
+	[Yavin: 5]
+
+- Bespin -
+11 Destinations:
+	[Alderaan: 8]
+	[Corellia: 6]
+	[Coruscant: 158]
+	[Dagobah: 27]
+	[Dantooine: 22]
+	[Endor: 32]
+	[Gamorr: 75]
+	[Hoth: 4]
+	[Sullust: 268]
+	[Tatooine: 16]
+	[Yavin: 11]
+
+- Corellia -
+26 Destinations:
+	[Alderaan: 6]
+	[Bespin: 6]
+	[Coruscant: 4]
+	[Dagobah: 31]
+	[Dantooine: 12]
+	[Endor: 17]
+	[Gamorr: 254]
+	[Hoth: 21]
+	[Sullust: 19]
+	[Tatooine: 4]
+	[Yavin: 15]
+	[Brentaal: 3]
+	[Chandrila: 2]
+	[Corulag: 1]
+	[Esseles: 4]
+	[Rhinnal: 7]
+	[Ralltiir: 9]
+	[Kashyyyk: 36]
+	[Myrkr: 81]
+	[Wayland: 99]
+	[Yaga Minor: 12]
+	[Bakura: 52]
+	[Corporate Sector: 9]
+	[Hapes Cluster: 21]
+	[Kessel: 10]
+	[Mon Calamari: 6]
+
+- Coruscant -
+26 Destinations:
+	[Alderaan: 16]
+	[Bespin: 158]
+	[Corellia: 4]
+	[Dagobah: 302]
+	[Dantooine: 19]
+	[Endor: 156]
+	[Gamorr: 387]
+	[Hoth: 81]
+	[Sullust: 194]
+	[Tatooine: 542]
+	[Yavin: 128]
+	[Brentaal: 7]
+	[Chandrila: 5]
+	[Corulag: 6]
+	[Esseles: 8]
+	[Rhinnal: 10]
+	[Ralltiir: 12]
+	[Kashyyyk: 43]
+	[Myrkr: 108]
+	[Wayland: 58]
+	[Yaga Minor: 15]
+	[Bakura: 77]
+	[Corporate Sector: 15]
+	[Hapes Cluster: 39]
+	[Kessel: 27]
+	[Mon Calamari: 13]
+
+- Dagobah -
+11 Destinations:
+	[Alderaan: 30]
+	[Bespin: 27]
+	[Corellia: 31]
+	[Coruscant: 302]
+	[Dantooine: 32]
+	[Endor: 97]
+	[Gamorr: 656]
+	[Hoth: 89]
+	[Sullust: 78]
+	[Tatooine: 28]
+	[Yavin: 314]
+
+- Dantooine -
+11 Destinations:
+	[Alderaan: 13]
+	[Bespin: 22]
+	[Corellia: 12]
+	[Coruscant: 19]
+	[Dagobah: 32]
+	[Endor: 21]
+	[Gamorr: 86]
+	[Hoth: 28]
+	[Sullust: 126]
+	[Tatooine: 20]
+	[Yavin: 12]
+
+- Endor -
+11 Destinations:
+	[Alderaan: 18]
+	[Bespin: 32]
+	[Corellia: 17]
+	[Coruscant: 156]
+	[Dagobah: 97]
+	[Dantooine: 21]
+	[Gamorr: 341]
+	[Hoth: 60]
+	[Sullust: 19]
+	[Tatooine: 24]
+	[Yavin: 10]
+
+- Gamorr -
+11 Destinations:
+	[Alderaan: 180]
+	[Bespin: 75]
+	[Corellia: 254]
+	[Coruscant: 387]
+	[Dagobah: 656]
+	[Dantooine: 86]
+	[Endor: 341]
+	[Hoth: 346]
+	[Sullust: 74]
+	[Tatooine: 40]
+	[Yavin: 55]
+
+- Hoth -
+11 Destinations:
+	[Alderaan: 27]
+	[Bespin: 4]
+	[Corellia: 21]
+	[Coruscant: 81]
+	[Dagobah: 89]
+	[Dantooine: 28]
+	[Endor: 60]
+	[Gamorr: 346]
+	[Sullust: 22]
+	[Tatooine: 56]
+	[Yavin: 39]
+
+- Sullust -
+11 Destinations:
+	[Alderaan: 213]
+	[Bespin: 268]
+	[Corellia: 19]
+	[Coruscant: 194]
+	[Dagobah: 78]
+	[Dantooine: 126]
+	[Endor: 19]
+	[Gamorr: 74]
+	[Hoth: 22]
+	[Tatooine: 38]
+	[Yavin: 17]
+
+- Tatooine -
+11 Destinations:
+	[Alderaan: 7]
+	[Bespin: 16]
+	[Corellia: 4]
+	[Coruscant: 542]
+	[Dagobah: 28]
+	[Dantooine: 20]
+	[Endor: 24]
+	[Gamorr: 40]
+	[Hoth: 56]
+	[Sullust: 38]
+	[Yavin: 15]
+
+- Yavin -
+11 Destinations:
+	[Alderaan: 5]
+	[Bespin: 11]
+	[Corellia: 15]
+	[Coruscant: 128]
+	[Dagobah: 314]
+	[Dantooine: 12]
+	[Endor: 10]
+	[Gamorr: 55]
+	[Hoth: 39]
+	[Sullust: 17]
+	[Tatooine: 15]
+
+- Brentaal -
+7 Destinations:
+	[Corellia: 3]
+	[Coruscant: 7]
+	[Chandrila: 1]
+	[Corulag: 2]
+	[Esseles: 2]
+	[Rhinnal: 5]
+	[Ralltiir: 7]
+
+- Chandrila -
+7 Destinations:
+	[Corellia: 2]
+	[Coruscant: 5]
+	[Brentaal: 1]
+	[Corulag: 1]
+	[Esseles: 3]
+	[Rhinnal: 2]
+	[Ralltiir: 4]
+
+- Corulag -
+7 Destinations:
+	[Corellia: 1]
+	[Coruscant: 6]
+	[Brentaal: 2]
+	[Chandrila: 1]
+	[Esseles: 4]
+	[Rhinnal: 8]
+	[Ralltiir: 11]
+
+- Esseles -
+7 Destinations:
+	[Corellia: 4]
+	[Coruscant: 8]
+	[Brentaal: 2]
+	[Chandrila: 3]
+	[Corulag: 4]
+	[Rhinnal: 2]
+	[Ralltiir: 4]
+
+- Rhinnal -
+7 Destinations:
+	[Corellia: 7]
+	[Coruscant: 10]
+	[Brentaal: 5]
+	[Chandrila: 2]
+	[Corulag: 8]
+	[Esseles: 2]
+	[Ralltiir: 1]
+
+- Ralltiir -
+7 Destinations:
+	[Corellia: 9]
+	[Coruscant: 12]
+	[Brentaal: 7]
+	[Chandrila: 4]
+	[Corulag: 11]
+	[Esseles: 4]
+	[Rhinnal: 1]
+
+- Kashyyyk -
+5 Destinations:
+	[Corellia: 36]
+	[Coruscant: 43]
+	[Myrkr: 55]
+	[Wayland: 54]
+	[Yaga Minor: 53]
+
+- Myrkr -
+5 Destinations:
+	[Corellia: 81]
+	[Coruscant: 108]
+	[Kashyyyk: 55]
+	[Wayland: 21]
+	[Yaga Minor: 55]
+
+- Wayland -
+5 Destinations:
+	[Corellia: 99]
+	[Coruscant: 58]
+	[Kashyyyk: 54]
+	[Myrkr: 21]
+	[Yaga Minor: 30]
+
+- Yaga Minor -
+5 Destinations:
+	[Corellia: 12]
+	[Coruscant: 15]
+	[Kashyyyk: 53]
+	[Myrkr: 55]
+	[Wayland: 30]
+
+- Bakura -
+6 Destinations:
+	[Corellia: 52]
+	[Coruscant: 77]
+	[Corporate Sector: 60]
+	[Hapes Cluster: 11]
+	[Kessel: 27]
+	[Mon Calamari: 22]
+
+- Corporate Sector -
+6 Destinations:
+	[Corellia: 9]
+	[Coruscant: 15]
+	[Bakura: 60]
+	[Hapes Cluster: 7]
+	[Kessel: 9]
+	[Mon Calamari: 24]
+
+- Hapes Cluster -
+6 Destinations:
+	[Corellia: 21]
+	[Coruscant: 39]
+	[Bakura: 11]
+	[Corporate Sector: 7]
+	[Kessel: 12]
+	[Mon Calamari: 18]
+
+- Kessel -
+6 Destinations:
+	[Corellia: 10]
+	[Coruscant: 27]
+	[Bakura: 27]
+	[Corporate Sector: 9]
+	[Hapes Cluster: 12]
+	[Mon Calamari: 9]
+
+- Mon Calamari -
+6 Destinations:
+	[Corellia: 6]
+	[Coruscant: 13]
+	[Bakura: 22]
+	[Corporate Sector: 24]
+	[Hapes Cluster: 18]
+	[Kessel: 9]
+
+########## Schedule ##########
+
+Andromeda Ascendant	Sullust	0	Hoth	22
+Andromeda Ascendant	Hoth	26	Endor	86
+Andromeda Ascendant	Endor	90	Bespin	122
+Andromeda Ascendant	Bespin	126	Endor	158
+Andromeda Ascendant	Endor	162	Hoth	222
+Andromeda Ascendant	Hoth	226	Sullust	248
+Andromeda Ascendant	Sullust	252	Hoth	274
+Andromeda Ascendant	Hoth	278	Endor	338
+Andromeda Ascendant	Endor	342	Bespin	374
+Andromeda Ascendant	Bespin	378	Endor	410
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+Andromeda Ascendant	Sullust	504	Hoth	526
+Andromeda Ascendant	Hoth	530	Endor	590
+Andromeda Ascendant	Endor	594	Bespin	626
+Andromeda Ascendant	Bespin	630	Endor	662
+Andromeda Ascendant	Endor	666	Hoth	726
+Andromeda Ascendant	Hoth	730	Sullust	752
+Andromeda Ascendant	Sullust	756	Hoth	778
+Andromeda Ascendant	Hoth	782	Endor	842
+Andromeda Ascendant	Endor	846	Bespin	878
+Andromeda Ascendant	Bespin	882	Endor	914
+Andromeda Ascendant	Endor	918	Hoth	978
+Andromeda Ascendant	Hoth	982	Sullust	1004
+Andromeda Ascendant	Sullust	1008	Hoth	1030
+Andromeda Ascendant	Hoth	1034	Endor	1094
+Andromeda Ascendant	Endor	1098	Bespin	1130
+Andromeda Ascendant	Bespin	1134	Endor	1166
+Andromeda Ascendant	Endor	1170	Hoth	1230
+Andromeda Ascendant	Hoth	1234	Sullust	1256
+USSC Discovery One	Tatooine	0	Gamorr	40
+USSC Discovery One	Gamorr	44	Tatooine	84
+USSC Discovery One	Tatooine	88	Gamorr	128
+USSC Discovery One	Gamorr	132	Tatooine	172
+USSC Discovery One	Tatooine	176	Gamorr	216
+USSC Discovery One	Gamorr	220	Tatooine	260
+USSC Discovery One	Tatooine	264	Gamorr	304
+USSC Discovery One	Gamorr	308	Tatooine	348
+USSC Discovery One	Tatooine	352	Gamorr	392
+USSC Discovery One	Gamorr	396	Tatooine	436
+USSC Discovery One	Tatooine	440	Gamorr	480
+USSC Discovery One	Gamorr	484	Tatooine	524
+USSC Discovery One	Tatooine	528	Gamorr	568
+USSC Discovery One	Gamorr	572	Tatooine	612
+USSC Discovery One	Tatooine	616	Gamorr	656
+USSC Discovery One	Gamorr	660	Tatooine	700
+USSC Discovery One	Tatooine	704	Gamorr	744
+USSC Discovery One	Gamorr	748	Tatooine	788
+USSC Discovery One	Tatooine	792	Gamorr	832
+USSC Discovery One	Gamorr	836	Tatooine	876
+Galactica	Yavin	0	Alderaan	5
+Galactica	Alderaan	9	Dantooine	22
+Galactica	Dantooine	26	Dagobah	58
+Galactica	Dagobah	62	Dantooine	94
+Galactica	Dantooine	98	Alderaan	111
+Galactica	Alderaan	115	Yavin	120
+Galactica	Yavin	124	Alderaan	129
+Galactica	Alderaan	133	Dantooine	146
+Galactica	Dantooine	150	Dagobah	182
+Galactica	Dagobah	186	Dantooine	218
+Galactica	Dantooine	222	Alderaan	235
+Galactica	Alderaan	239	Yavin	244
+Galactica	Yavin	248	Alderaan	253
+Galactica	Alderaan	257	Dantooine	270
+Galactica	Dantooine	274	Dagobah	306
+Galactica	Dagobah	310	Dantooine	342
+Galactica	Dantooine	346	Alderaan	359
+Galactica	Alderaan	363	Yavin	368
+Galactica	Yavin	372	Alderaan	377
+Galactica	Alderaan	381	Dantooine	394
+Galactica	Dantooine	398	Dagobah	430
+Galactica	Dagobah	434	Dantooine	466
+Galactica	Dantooine	470	Alderaan	483
+Galactica	Alderaan	487	Yavin	492
+Galactica	Yavin	496	Alderaan	501
+Galactica	Alderaan	505	Dantooine	518
+Galactica	Dantooine	522	Dagobah	554
+Galactica	Dagobah	558	Dantooine	590
+Galactica	Dantooine	594	Alderaan	607
+Galactica	Alderaan	611	Yavin	616
+Heart of Gold	Corellia	0	Alderaan	6
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+Heart of Gold	Corellia	51	Yaga Minor	63
+Heart of Gold	Yaga Minor	67	Corellia	79
+Heart of Gold	Corellia	83	Alderaan	89
+Heart of Gold	Alderaan	93	Bespin	101
+Heart of Gold	Bespin	105	Endor	137
+Heart of Gold	Endor	141	Corellia	158
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	203	Corellia	209
+Heart of Gold	Corellia	213	Yaga Minor	225
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Heart of Gold	Endor	303	Corellia	320
+Heart of Gold	Corellia	324	Alderaan	330
+Heart of Gold	Alderaan	334	Tatooine	341
+Heart of Gold	Tatooine	345	Bespin	361
+Heart of Gold	Bespin	365	Corellia	371
+Heart of Gold	Corellia	375	Yaga Minor	387
+Heart of Gold	Yaga Minor	391	Corellia	403
+Heart of Gold	Corellia	407	Alderaan	413
+Heart of Gold	Alderaan	417	Bespin	425
+Heart of Gold	Bespin	429	Endor	461
+Heart of Gold	Endor	465	Corellia	482
+Heart of Gold	Corellia	486	Alderaan	492
+Heart of Gold	Alderaan	496	Tatooine	503
+Heart of Gold	Tatooine	507	Bespin	523
+Heart of Gold	Bespin	527	Corellia	533
+Heart of Gold	Corellia	537	Yaga Minor	549
+Heart of Gold	Yaga Minor	553	Corellia	565
+Heart of Gold	Corellia	569	Alderaan	575
+Heart of Gold	Alderaan	579	Bespin	587
+Heart of Gold	Bespin	591	Endor	623
+Heart of Gold	Endor	627	Corellia	644
+Heart of Gold	Corellia	648	Alderaan	654
+Heart of Gold	Alderaan	658	Tatooine	665
+Heart of Gold	Tatooine	669	Bespin	685
+Heart of Gold	Bespin	689	Corellia	695
+Heart of Gold	Corellia	699	Yaga Minor	711
+Heart of Gold	Yaga Minor	715	Corellia	727
+Heart of Gold	Corellia	731	Alderaan	737
+Heart of Gold	Alderaan	741	Bespin	749
+Heart of Gold	Bespin	753	Endor	785
+Heart of Gold	Endor	789	Corellia	806
+Millenium Falcon	Yaga Minor	0	Kashyyyk	53
+Millenium Falcon	Kashyyyk	57	Yaga Minor	110
+Millenium Falcon	Yaga Minor	114	Kashyyyk	167
+Millenium Falcon	Kashyyyk	171	Yaga Minor	224
+Millenium Falcon	Yaga Minor	228	Kashyyyk	281
+Millenium Falcon	Kashyyyk	285	Yaga Minor	338
+Millenium Falcon	Yaga Minor	342	Kashyyyk	395
+Millenium Falcon	Kashyyyk	399	Yaga Minor	452
+Millenium Falcon	Yaga Minor	456	Kashyyyk	509
+Millenium Falcon	Kashyyyk	513	Yaga Minor	566
+Millenium Falcon	Yaga Minor	570	Kashyyyk	623
+Millenium Falcon	Kashyyyk	627	Yaga Minor	680
+Millenium Falcon	Yaga Minor	684	Kashyyyk	737
+Millenium Falcon	Kashyyyk	741	Yaga Minor	794
+Moya	Yaga Minor	0	Wayland	30
+Moya	Wayland	34	Myrkr	55
+Moya	Myrkr	59	Wayland	80
+Moya	Wayland	84	Yaga Minor	114
+Moya	Yaga Minor	118	Wayland	148
+Moya	Wayland	152	Myrkr	173
+Moya	Myrkr	177	Wayland	198
+Moya	Wayland	202	Yaga Minor	232
+Moya	Yaga Minor	236	Wayland	266
+Moya	Wayland	270	Myrkr	291
+Moya	Myrkr	295	Wayland	316
+Moya	Wayland	320	Yaga Minor	350
+Moya	Yaga Minor	354	Wayland	384
+Moya	Wayland	388	Myrkr	409
+Moya	Myrkr	413	Wayland	434
+Moya	Wayland	438	Yaga Minor	468
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+Moya	Myrkr	531	Wayland	552
+Moya	Wayland	556	Yaga Minor	586
+Moya	Yaga Minor	590	Wayland	620
+Moya	Wayland	624	Myrkr	645
+Moya	Myrkr	649	Wayland	670
+Moya	Wayland	674	Yaga Minor	704
+Moya	Yaga Minor	708	Wayland	738
+Moya	Wayland	742	Myrkr	763
+Moya	Myrkr	767	Wayland	788
+Moya	Wayland	792	Yaga Minor	822
+NSEA Protector	Ralltiir	0	Chandrila	4
+NSEA Protector	Chandrila	8	Esseles	11
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+NSEA Protector	Ralltiir	43	Chandrila	47
+NSEA Protector	Chandrila	51	Esseles	54
+NSEA Protector	Esseles	58	Corulag	62
+NSEA Protector	Corulag	66	Brentaal	68
+NSEA Protector	Brentaal	72	Rhinnal	77
+NSEA Protector	Rhinnal	81	Ralltiir	82
+NSEA Protector	Ralltiir	86	Chandrila	90
+NSEA Protector	Chandrila	94	Esseles	97
+NSEA Protector	Esseles	101	Corulag	105
+NSEA Protector	Corulag	109	Brentaal	111
+NSEA Protector	Brentaal	115	Rhinnal	120
+NSEA Protector	Rhinnal	124	Ralltiir	125
+NSEA Protector	Ralltiir	129	Chandrila	133
+NSEA Protector	Chandrila	137	Esseles	140
+NSEA Protector	Esseles	144	Corulag	148
+NSEA Protector	Corulag	152	Brentaal	154
+NSEA Protector	Brentaal	158	Rhinnal	163
+NSEA Protector	Rhinnal	167	Ralltiir	168
+NSEA Protector	Ralltiir	172	Chandrila	176
+NSEA Protector	Chandrila	180	Esseles	183
+NSEA Protector	Esseles	187	Corulag	191
+NSEA Protector	Corulag	195	Brentaal	197
+NSEA Protector	Brentaal	201	Rhinnal	206
+NSEA Protector	Rhinnal	210	Ralltiir	211
+NSEA Protector	Ralltiir	215	Chandrila	219
+NSEA Protector	Chandrila	223	Esseles	226
+NSEA Protector	Esseles	230	Corulag	234
+NSEA Protector	Corulag	238	Brentaal	240
+NSEA Protector	Brentaal	244	Rhinnal	249
+NSEA Protector	Rhinnal	253	Ralltiir	254
+NSEA Protector	Ralltiir	258	Chandrila	262
+NSEA Protector	Chandrila	266	Esseles	269
+NSEA Protector	Esseles	273	Corulag	277
+NSEA Protector	Corulag	281	Brentaal	283
+NSEA Protector	Brentaal	287	Rhinnal	292
+NSEA Protector	Rhinnal	296	Ralltiir	297
+NSEA Protector	Ralltiir	301	Chandrila	305
+NSEA Protector	Chandrila	309	Esseles	312
+NSEA Protector	Esseles	316	Corulag	320
+NSEA Protector	Corulag	324	Brentaal	326
+NSEA Protector	Brentaal	330	Rhinnal	335
+NSEA Protector	Rhinnal	339	Ralltiir	340
+NSEA Protector	Ralltiir	344	Chandrila	348
+NSEA Protector	Chandrila	352	Esseles	355
+NSEA Protector	Esseles	359	Corulag	363
+NSEA Protector	Corulag	367	Brentaal	369
+NSEA Protector	Brentaal	373	Rhinnal	378
+NSEA Protector	Rhinnal	382	Ralltiir	383
+NSEA Protector	Ralltiir	387	Chandrila	391
+NSEA Protector	Chandrila	395	Esseles	398
+NSEA Protector	Esseles	402	Corulag	406
+NSEA Protector	Corulag	410	Brentaal	412
+NSEA Protector	Brentaal	416	Rhinnal	421
+NSEA Protector	Rhinnal	425	Ralltiir	426
+Red Dwarf	Corporate Sector	0	Hapes Cluster	7
+Red Dwarf	Hapes Cluster	11	Kessel	23
+Red Dwarf	Kessel	27	Bakura	54
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+Red Dwarf	Corporate Sector	116	Hapes Cluster	123
+Red Dwarf	Hapes Cluster	127	Kessel	139
+Red Dwarf	Kessel	143	Bakura	170
+Red Dwarf	Bakura	174	Kessel	201
+Red Dwarf	Kessel	205	Hapes Cluster	217
+Red Dwarf	Hapes Cluster	221	Corporate Sector	228
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Red Dwarf	Bakura	290	Kessel	317
+Red Dwarf	Kessel	321	Hapes Cluster	333
+Red Dwarf	Hapes Cluster	337	Corporate Sector	344
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Red Dwarf	Bakura	406	Kessel	433
+Red Dwarf	Kessel	437	Hapes Cluster	449
+Red Dwarf	Hapes Cluster	453	Corporate Sector	460
+Red Dwarf	Corporate Sector	464	Hapes Cluster	471
+Red Dwarf	Hapes Cluster	475	Kessel	487
+Red Dwarf	Kessel	491	Bakura	518
+Red Dwarf	Bakura	522	Kessel	549
+Red Dwarf	Kessel	553	Hapes Cluster	565
+Red Dwarf	Hapes Cluster	569	Corporate Sector	576
+Red Dwarf	Corporate Sector	580	Hapes Cluster	587
+Red Dwarf	Hapes Cluster	591	Kessel	603
+Red Dwarf	Kessel	607	Bakura	634
+Red Dwarf	Bakura	638	Kessel	665
+Red Dwarf	Kessel	669	Hapes Cluster	681
+Red Dwarf	Hapes Cluster	685	Corporate Sector	692
+Red Dwarf	Corporate Sector	696	Hapes Cluster	703
+Red Dwarf	Hapes Cluster	707	Kessel	719
+Red Dwarf	Kessel	723	Bakura	750
+Red Dwarf	Bakura	754	Kessel	781
+Red Dwarf	Kessel	785	Hapes Cluster	797
+Red Dwarf	Hapes Cluster	801	Corporate Sector	808
+Red Dwarf	Corporate Sector	812	Hapes Cluster	819
+Red Dwarf	Hapes Cluster	823	Kessel	835
+Red Dwarf	Kessel	839	Bakura	866
+Red Dwarf	Bakura	870	Kessel	897
+Red Dwarf	Kessel	901	Hapes Cluster	913
+Red Dwarf	Hapes Cluster	917	Corporate Sector	924
+Red Dwarf	Corporate Sector	928	Hapes Cluster	935
+Red Dwarf	Hapes Cluster	939	Kessel	951
+Red Dwarf	Kessel	955	Bakura	982
+Red Dwarf	Bakura	986	Kessel	1013
+Red Dwarf	Kessel	1017	Hapes Cluster	1029
+Red Dwarf	Hapes Cluster	1033	Corporate Sector	1040
+Red Dwarf	Corporate Sector	1044	Hapes Cluster	1051
+Red Dwarf	Hapes Cluster	1055	Kessel	1067
+Red Dwarf	Kessel	1071	Bakura	1098
+Red Dwarf	Bakura	1102	Kessel	1129
+Red Dwarf	Kessel	1133	Hapes Cluster	1145
+Red Dwarf	Hapes Cluster	1149	Corporate Sector	1156
+Serenity	Bakura	0	Mon Calamari	22
+Serenity	Mon Calamari	26	Bakura	48
+Serenity	Bakura	52	Mon Calamari	74
+Serenity	Mon Calamari	78	Bakura	100
+Serenity	Bakura	104	Mon Calamari	126
+Serenity	Mon Calamari	130	Bakura	152
+Serenity	Bakura	156	Mon Calamari	178
+Serenity	Mon Calamari	182	Bakura	204
+Serenity	Bakura	208	Mon Calamari	230
+Serenity	Mon Calamari	234	Bakura	256
+Serenity	Bakura	260	Mon Calamari	282
+Serenity	Mon Calamari	286	Bakura	308
+Serenity	Bakura	312	Mon Calamari	334
+Serenity	Mon Calamari	338	Bakura	360
+Serenity	Bakura	364	Mon Calamari	386
+Serenity	Mon Calamari	390	Bakura	412
+Serenity	Bakura	416	Mon Calamari	438
+Serenity	Mon Calamari	442	Bakura	464
+Serenity	Bakura	468	Mon Calamari	490
+Serenity	Mon Calamari	494	Bakura	516
+USS Enterprise	Corellia	0	Coruscant	4
+USS Enterprise	Coruscant	8	Corporate Sector	23
+USS Enterprise	Corporate Sector	27	Coruscant	42
+USS Enterprise	Coruscant	46	Ralltiir	58
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	78	Corporate Sector	93
+USS Enterprise	Corporate Sector	97	Coruscant	112
+USS Enterprise	Coruscant	116	Corellia	120
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	170	Ralltiir	182
+USS Enterprise	Ralltiir	186	Coruscant	198
+USS Enterprise	Coruscant	202	Corporate Sector	217
+USS Enterprise	Corporate Sector	221	Coruscant	236
+USS Enterprise	Coruscant	240	Corellia	244
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+USS Enterprise	Corporate Sector	275	Coruscant	290
+USS Enterprise	Coruscant	294	Ralltiir	306
+USS Enterprise	Ralltiir	310	Coruscant	322
+USS Enterprise	Coruscant	326	Corporate Sector	341
+USS Enterprise	Corporate Sector	345	Coruscant	360
+USS Enterprise	Coruscant	364	Corellia	368
+USS Enterprise	Corellia	372	Coruscant	376
+USS Enterprise	Coruscant	380	Corporate Sector	395
+USS Enterprise	Corporate Sector	399	Coruscant	414
+USS Enterprise	Coruscant	418	Ralltiir	430
+USS Enterprise	Ralltiir	434	Coruscant	446
+USS Enterprise	Coruscant	450	Corporate Sector	465
+USS Enterprise	Corporate Sector	469	Coruscant	484
+USS Enterprise	Coruscant	488	Corellia	492
+USS Enterprise	Corellia	496	Coruscant	500
+USS Enterprise	Coruscant	504	Corporate Sector	519
+USS Enterprise	Corporate Sector	523	Coruscant	538
+USS Enterprise	Coruscant	542	Ralltiir	554
+USS Enterprise	Ralltiir	558	Coruscant	570
+USS Enterprise	Coruscant	574	Corporate Sector	589
+USS Enterprise	Corporate Sector	593	Coruscant	608
+USS Enterprise	Coruscant	612	Corellia	616
+
+########## Galaxy Route Structure ##########
+
+NUMBER OF PLANETS: 27
+FLEET:
+	[ID: 0] Andromeda Ascendant
+	[ID: 1] USSC Discovery One
+	[ID: 2] Galactica
+	[ID: 3] Heart of Gold
+	[ID: 4] Millenium Falcon
+	[ID: 5] Moya
+	[ID: 6] NSEA Protector
+	[ID: 7] Red Dwarf
+	[ID: 8] Serenity
+	[ID: 9] USS Enterprise
+
+ACTIVE ROUTES:
+
+START PLANET: Alderaan
+Bespin |8|
+	Heart of Gold	[93	101]
+	Heart of Gold	[255	263]
+	Heart of Gold	[417	425]
+	Heart of Gold	[579	587]
+	Heart of Gold	[741	749]
+
+Dantooine |13|
+	Galactica	[9	22]
+	Galactica	[133	146]
+	Galactica	[257	270]
+	Galactica	[381	394]
+	Galactica	[505	518]
+
+Tatooine |7|
+	Heart of Gold	[10	17]
+	Heart of Gold	[172	179]
+	Heart of Gold	[334	341]
+	Heart of Gold	[496	503]
+	Heart of Gold	[658	665]
+
+Yavin |5|
+	Galactica	[115	120]
+	Galactica	[239	244]
+	Galactica	[363	368]
+	Galactica	[487	492]
+	Galactica	[611	616]
+
+
+START PLANET: Bespin
+Corellia |6|
+	Heart of Gold	[41	47]
+	Heart of Gold	[203	209]
+	Heart of Gold	[365	371]
+	Heart of Gold	[527	533]
+	Heart of Gold	[689	695]
+
+Endor |32|
+	Andromeda Ascendant	[126	158]
+	Andromeda Ascendant	[378	410]
+	Andromeda Ascendant	[630	662]
+	Andromeda Ascendant	[882	914]
+	Andromeda Ascendant	[1134	1166]
+	Heart of Gold	[105	137]
+	Heart of Gold	[267	299]
+	Heart of Gold	[429	461]
+	Heart of Gold	[591	623]
+	Heart of Gold	[753	785]
+
+
+START PLANET: Corellia
+Alderaan |6|
+	Heart of Gold	[0	6]
+	Heart of Gold	[83	89]
+	Heart of Gold	[162	168]
+	Heart of Gold	[245	251]
+	Heart of Gold	[324	330]
+	Heart of Gold	[407	413]
+	Heart of Gold	[486	492]
+	Heart of Gold	[569	575]
+	Heart of Gold	[648	654]
+	Heart of Gold	[731	737]
+
+Yaga Minor |12|
+	Heart of Gold	[51	63]
+	Heart of Gold	[213	225]
+	Heart of Gold	[375	387]
+	Heart of Gold	[537	549]
+	Heart of Gold	[699	711]
+
+Coruscant |4|
+	USS Enterprise	[0	4]
+	USS Enterprise	[124	128]
+	USS Enterprise	[248	252]
+	USS Enterprise	[372	376]
+	USS Enterprise	[496	500]
+
+
+START PLANET: Coruscant
+Ralltiir |12|
+	USS Enterprise	[46	58]
+	USS Enterprise	[170	182]
+	USS Enterprise	[294	306]
+	USS Enterprise	[418	430]
+	USS Enterprise	[542	554]
+
+Corellia |4|
+	USS Enterprise	[116	120]
+	USS Enterprise	[240	244]
+	USS Enterprise	[364	368]
+	USS Enterprise	[488	492]
+	USS Enterprise	[612	616]
+
+Corporate Sector |15|
+	USS Enterprise	[8	23]
+	USS Enterprise	[78	93]
+	USS Enterprise	[132	147]
+	USS Enterprise	[202	217]
+	USS Enterprise	[256	271]
+	USS Enterprise	[326	341]
+	USS Enterprise	[380	395]
+	USS Enterprise	[450	465]
+	USS Enterprise	[504	519]
+	USS Enterprise	[574	589]
+
+
+START PLANET: Dagobah
+Dantooine |32|
+	Galactica	[62	94]
+	Galactica	[186	218]
+	Galactica	[310	342]
+	Galactica	[434	466]
+	Galactica	[558	590]
+
+
+START PLANET: Dantooine
+Alderaan |13|
+	Galactica	[98	111]
+	Galactica	[222	235]
+	Galactica	[346	359]
+	Galactica	[470	483]
+	Galactica	[594	607]
+
+Dagobah |32|
+	Galactica	[26	58]
+	Galactica	[150	182]
+	Galactica	[274	306]
+	Galactica	[398	430]
+	Galactica	[522	554]
+
+
+START PLANET: Endor
+Bespin |32|
+	Andromeda Ascendant	[90	122]
+	Andromeda Ascendant	[342	374]
+	Andromeda Ascendant	[594	626]
+	Andromeda Ascendant	[846	878]
+	Andromeda Ascendant	[1098	1130]
+
+Corellia |17|
+	Heart of Gold	[141	158]
+	Heart of Gold	[303	320]
+	Heart of Gold	[465	482]
+	Heart of Gold	[627	644]
+	Heart of Gold	[789	806]
+
+Hoth |60|
+	Andromeda Ascendant	[162	222]
+	Andromeda Ascendant	[414	474]
+	Andromeda Ascendant	[666	726]
+	Andromeda Ascendant	[918	978]
+	Andromeda Ascendant	[1170	1230]
+
+
+START PLANET: Gamorr
+Tatooine |40|
+	USSC Discovery One	[44	84]
+	USSC Discovery One	[132	172]
+	USSC Discovery One	[220	260]
+	USSC Discovery One	[308	348]
+	USSC Discovery One	[396	436]
+	USSC Discovery One	[484	524]
+	USSC Discovery One	[572	612]
+	USSC Discovery One	[660	700]
+	USSC Discovery One	[748	788]
+	USSC Discovery One	[836	876]
+
+
+START PLANET: Hoth
+Endor |60|
+	Andromeda Ascendant	[26	86]
+	Andromeda Ascendant	[278	338]
+	Andromeda Ascendant	[530	590]
+	Andromeda Ascendant	[782	842]
+	Andromeda Ascendant	[1034	1094]
+
+Sullust |22|
+	Andromeda Ascendant	[226	248]
+	Andromeda Ascendant	[478	500]
+	Andromeda Ascendant	[730	752]
+	Andromeda Ascendant	[982	1004]
+	Andromeda Ascendant	[1234	1256]
+
+
+START PLANET: Sullust
+Hoth |22|
+	Andromeda Ascendant	[0	22]
+	Andromeda Ascendant	[252	274]
+	Andromeda Ascendant	[504	526]
+	Andromeda Ascendant	[756	778]
+	Andromeda Ascendant	[1008	1030]
+
+
+START PLANET: Tatooine
+Bespin |16|
+	Heart of Gold	[21	37]
+	Heart of Gold	[183	199]
+	Heart of Gold	[345	361]
+	Heart of Gold	[507	523]
+	Heart of Gold	[669	685]
+
+Gamorr |40|
+	USSC Discovery One	[0	40]
+	USSC Discovery One	[88	128]
+	USSC Discovery One	[176	216]
+	USSC Discovery One	[264	304]
+	USSC Discovery One	[352	392]
+	USSC Discovery One	[440	480]
+	USSC Discovery One	[528	568]
+	USSC Discovery One	[616	656]
+	USSC Discovery One	[704	744]
+	USSC Discovery One	[792	832]
+
+
+START PLANET: Yavin
+Alderaan |5|
+	Galactica	[0	5]
+	Galactica	[124	129]
+	Galactica	[248	253]
+	Galactica	[372	377]
+	Galactica	[496	501]
+
+
+START PLANET: Brentaal
+Rhinnal |5|
+	NSEA Protector	[29	34]
+	NSEA Protector	[72	77]
+	NSEA Protector	[115	120]
+	NSEA Protector	[158	163]
+	NSEA Protector	[201	206]
+	NSEA Protector	[244	249]
+	NSEA Protector	[287	292]
+	NSEA Protector	[330	335]
+	NSEA Protector	[373	378]
+	NSEA Protector	[416	421]
+
+
+START PLANET: Chandrila
+Esseles |3|
+	NSEA Protector	[8	11]
+	NSEA Protector	[51	54]
+	NSEA Protector	[94	97]
+	NSEA Protector	[137	140]
+	NSEA Protector	[180	183]
+	NSEA Protector	[223	226]
+	NSEA Protector	[266	269]
+	NSEA Protector	[309	312]
+	NSEA Protector	[352	355]
+	NSEA Protector	[395	398]
+
+
+START PLANET: Corulag
+Brentaal |2|
+	NSEA Protector	[23	25]
+	NSEA Protector	[66	68]
+	NSEA Protector	[109	111]
+	NSEA Protector	[152	154]
+	NSEA Protector	[195	197]
+	NSEA Protector	[238	240]
+	NSEA Protector	[281	283]
+	NSEA Protector	[324	326]
+	NSEA Protector	[367	369]
+	NSEA Protector	[410	412]
+
+
+START PLANET: Esseles
+Corulag |4|
+	NSEA Protector	[15	19]
+	NSEA Protector	[58	62]
+	NSEA Protector	[101	105]
+	NSEA Protector	[144	148]
+	NSEA Protector	[187	191]
+	NSEA Protector	[230	234]
+	NSEA Protector	[273	277]
+	NSEA Protector	[316	320]
+	NSEA Protector	[359	363]
+	NSEA Protector	[402	406]
+
+
+START PLANET: Rhinnal
+Ralltiir |1|
+	NSEA Protector	[38	39]
+	NSEA Protector	[81	82]
+	NSEA Protector	[124	125]
+	NSEA Protector	[167	168]
+	NSEA Protector	[210	211]
+	NSEA Protector	[253	254]
+	NSEA Protector	[296	297]
+	NSEA Protector	[339	340]
+	NSEA Protector	[382	383]
+	NSEA Protector	[425	426]
+
+
+START PLANET: Ralltiir
+Chandrila |4|
+	NSEA Protector	[0	4]
+	NSEA Protector	[43	47]
+	NSEA Protector	[86	90]
+	NSEA Protector	[129	133]
+	NSEA Protector	[172	176]
+	NSEA Protector	[215	219]
+	NSEA Protector	[258	262]
+	NSEA Protector	[301	305]
+	NSEA Protector	[344	348]
+	NSEA Protector	[387	391]
+
+Coruscant |12|
+	USS Enterprise	[62	74]
+	USS Enterprise	[186	198]
+	USS Enterprise	[310	322]
+	USS Enterprise	[434	446]
+	USS Enterprise	[558	570]
+
+
+START PLANET: Kashyyyk
+Yaga Minor |53|
+	Millenium Falcon	[57	110]
+	Millenium Falcon	[171	224]
+	Millenium Falcon	[285	338]
+	Millenium Falcon	[399	452]
+	Millenium Falcon	[513	566]
+	Millenium Falcon	[627	680]
+	Millenium Falcon	[741	794]
+
+
+START PLANET: Myrkr
+Wayland |21|
+	Moya	[59	80]
+	Moya	[177	198]
+	Moya	[295	316]
+	Moya	[413	434]
+	Moya	[531	552]
+	Moya	[649	670]
+	Moya	[767	788]
+
+
+START PLANET: Wayland
+Myrkr |21|
+	Moya	[34	55]
+	Moya	[152	173]
+	Moya	[270	291]
+	Moya	[388	409]
+	Moya	[506	527]
+	Moya	[624	645]
+	Moya	[742	763]
+
+Yaga Minor |30|
+	Moya	[84	114]
+	Moya	[202	232]
+	Moya	[320	350]
+	Moya	[438	468]
+	Moya	[556	586]
+	Moya	[674	704]
+	Moya	[792	822]
+
+
+START PLANET: Yaga Minor
+Corellia |12|
+	Heart of Gold	[67	79]
+	Heart of Gold	[229	241]
+	Heart of Gold	[391	403]
+	Heart of Gold	[553	565]
+	Heart of Gold	[715	727]
+
+Kashyyyk |53|
+	Millenium Falcon	[0	53]
+	Millenium Falcon	[114	167]
+	Millenium Falcon	[228	281]
+	Millenium Falcon	[342	395]
+	Millenium Falcon	[456	509]
+	Millenium Falcon	[570	623]
+	Millenium Falcon	[684	737]
+
+Wayland |30|
+	Moya	[0	30]
+	Moya	[118	148]
+	Moya	[236	266]
+	Moya	[354	384]
+	Moya	[472	502]
+	Moya	[590	620]
+	Moya	[708	738]
+
+
+START PLANET: Bakura
+Kessel |27|
+	Red Dwarf	[58	85]
+	Red Dwarf	[174	201]
+	Red Dwarf	[290	317]
+	Red Dwarf	[406	433]
+	Red Dwarf	[522	549]
+	Red Dwarf	[638	665]
+	Red Dwarf	[754	781]
+	Red Dwarf	[870	897]
+	Red Dwarf	[986	1013]
+	Red Dwarf	[1102	1129]
+
+Mon Calamari |22|
+	Serenity	[0	22]
+	Serenity	[52	74]
+	Serenity	[104	126]
+	Serenity	[156	178]
+	Serenity	[208	230]
+	Serenity	[260	282]
+	Serenity	[312	334]
+	Serenity	[364	386]
+	Serenity	[416	438]
+	Serenity	[468	490]
+
+
+START PLANET: Corporate Sector
+Coruscant |15|
+	USS Enterprise	[27	42]
+	USS Enterprise	[97	112]
+	USS Enterprise	[151	166]
+	USS Enterprise	[221	236]
+	USS Enterprise	[275	290]
+	USS Enterprise	[345	360]
+	USS Enterprise	[399	414]
+	USS Enterprise	[469	484]
+	USS Enterprise	[523	538]
+	USS Enterprise	[593	608]
+
+Hapes Cluster |7|
+	Red Dwarf	[0	7]
+	Red Dwarf	[116	123]
+	Red Dwarf	[232	239]
+	Red Dwarf	[348	355]
+	Red Dwarf	[464	471]
+	Red Dwarf	[580	587]
+	Red Dwarf	[696	703]
+	Red Dwarf	[812	819]
+	Red Dwarf	[928	935]
+	Red Dwarf	[1044	1051]
+
+
+START PLANET: Hapes Cluster
+Corporate Sector |7|
+	Red Dwarf	[105	112]
+	Red Dwarf	[221	228]
+	Red Dwarf	[337	344]
+	Red Dwarf	[453	460]
+	Red Dwarf	[569	576]
+	Red Dwarf	[685	692]
+	Red Dwarf	[801	808]
+	Red Dwarf	[917	924]
+	Red Dwarf	[1033	1040]
+	Red Dwarf	[1149	1156]
+
+Kessel |12|
+	Red Dwarf	[11	23]
+	Red Dwarf	[127	139]
+	Red Dwarf	[243	255]
+	Red Dwarf	[359	371]
+	Red Dwarf	[475	487]
+	Red Dwarf	[591	603]
+	Red Dwarf	[707	719]
+	Red Dwarf	[823	835]
+	Red Dwarf	[939	951]
+	Red Dwarf	[1055	1067]
+
+
+START PLANET: Kessel
+Bakura |27|
+	Red Dwarf	[27	54]
+	Red Dwarf	[143	170]
+	Red Dwarf	[259	286]
+	Red Dwarf	[375	402]
+	Red Dwarf	[491	518]
+	Red Dwarf	[607	634]
+	Red Dwarf	[723	750]
+	Red Dwarf	[839	866]
+	Red Dwarf	[955	982]
+	Red Dwarf	[1071	1098]
+
+Hapes Cluster |12|
+	Red Dwarf	[89	101]
+	Red Dwarf	[205	217]
+	Red Dwarf	[321	333]
+	Red Dwarf	[437	449]
+	Red Dwarf	[553	565]
+	Red Dwarf	[669	681]
+	Red Dwarf	[785	797]
+	Red Dwarf	[901	913]
+	Red Dwarf	[1017	1029]
+	Red Dwarf	[1133	1145]
+
+
+START PLANET: Mon Calamari
+Bakura |22|
+	Serenity	[26	48]
+	Serenity	[78	100]
+	Serenity	[130	152]
+	Serenity	[182	204]
+	Serenity	[234	256]
+	Serenity	[286	308]
+	Serenity	[338	360]
+	Serenity	[390	412]
+	Serenity	[442	464]
+	Serenity	[494	516]
+
+
+########## Itinerary #1 ##########
+
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+Arrival Time: 334
+Total Enroute Time: 324
+Time in Space: 116
+
+########## Itinerary #2 ##########
+
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+Arrival Time: 334
+Total Enroute Time: 293
+Time in Space: 93
+
+########## Itinerary #3 ##########
+
+Heart of Gold	Corellia	0	Alderaan	6
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	105	Endor	137
+Andromeda Ascendant	Endor	162	Hoth	222
+Andromeda Ascendant	Hoth	226	Sullust	248
+
+Arrival Time: 248
+Total Enroute Time: 248
+Time in Space: 143
+
+########## Itinerary #4 ##########
+
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 384
+Time in Space: 147
+
+########## Itinerary #5 ##########
+
+Galactica	Dagobah	62	Dantooine	94
+Galactica	Dantooine	98	Alderaan	111
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 438
+Time in Space: 182
+
+########## Itinerary #6 ##########
+
+Galactica	Dantooine	98	Alderaan	111
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 402
+Time in Space: 150
+
+########## Itinerary #7 ##########
+
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+Arrival Time: 438
+Total Enroute Time: 297
+Time in Space: 104
+
+########## Itinerary #8 ##########
+
+USSC Discovery One	Gamorr	44	Tatooine	84
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 456
+Time in Space: 170
+
+########## Itinerary #9 ##########
+
+Andromeda Ascendant	Hoth	26	Endor	86
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+Arrival Time: 438
+Total Enroute Time: 412
+Time in Space: 164
+
+########## Itinerary #10 ##########
+
+Andromeda Ascendant	Sullust	0	Hoth	22
+Andromeda Ascendant	Hoth	26	Endor	86
+Heart of Gold	Endor	141	Corellia	158
+USS Enterprise	Corellia	248	Coruscant	252
+USS Enterprise	Coruscant	256	Corporate Sector	271
+Red Dwarf	Corporate Sector	348	Hapes Cluster	355
+Red Dwarf	Hapes Cluster	359	Kessel	371
+Red Dwarf	Kessel	375	Bakura	402
+Serenity	Bakura	416	Mon Calamari	438
+
+Arrival Time: 438
+Total Enroute Time: 438
+Time in Space: 186
+
+########## Itinerary #11 ##########
+
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+Arrival Time: 334
+Total Enroute Time: 313
+Time in Space: 109
+
+########## Itinerary #12 ##########
+
+Galactica	Yavin	0	Alderaan	5
+Heart of Gold	Alderaan	10	Tatooine	17
+Heart of Gold	Tatooine	21	Bespin	37
+Heart of Gold	Bespin	41	Corellia	47
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+Arrival Time: 334
+Total Enroute Time: 334
+Time in Space: 121
+
+########## Itinerary #13 ##########
+
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 471
+Time in Space: 165
+
+########## Itinerary #14 ##########
+
+NSEA Protector	Chandrila	8	Esseles	11
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 492
+Time in Space: 174
+
+########## Itinerary #15 ##########
+
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 477
+Time in Space: 167
+
+########## Itinerary #16 ##########
+
+NSEA Protector	Esseles	15	Corulag	19
+NSEA Protector	Corulag	23	Brentaal	25
+NSEA Protector	Brentaal	29	Rhinnal	34
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 485
+Time in Space: 171
+
+########## Itinerary #17 ##########
+
+NSEA Protector	Rhinnal	38	Ralltiir	39
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 462
+Time in Space: 160
+
+########## Itinerary #18 ##########
+
+USS Enterprise	Ralltiir	62	Coruscant	74
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 438
+Time in Space: 159
+
+########## Itinerary #19 ##########
+
+Millenium Falcon	Kashyyyk	57	Yaga Minor	110
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 443
+Time in Space: 193
+
+########## Itinerary #20 ##########
+
+Moya	Myrkr	59	Wayland	80
+Moya	Wayland	84	Yaga Minor	114
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 441
+Time in Space: 191
+
+########## Itinerary #21 ##########
+
+Moya	Wayland	84	Yaga Minor	114
+Heart of Gold	Yaga Minor	229	Corellia	241
+Heart of Gold	Corellia	245	Alderaan	251
+Heart of Gold	Alderaan	255	Bespin	263
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 416
+Time in Space: 170
+
+########## Itinerary #22 ##########
+
+Heart of Gold	Yaga Minor	67	Corellia	79
+USS Enterprise	Corellia	124	Coruscant	128
+USS Enterprise	Coruscant	132	Corporate Sector	147
+Red Dwarf	Corporate Sector	232	Hapes Cluster	239
+Red Dwarf	Hapes Cluster	243	Kessel	255
+Red Dwarf	Kessel	259	Bakura	286
+Serenity	Bakura	312	Mon Calamari	334
+
+Arrival Time: 334
+Total Enroute Time: 267
+Time in Space: 99
+
+########## Itinerary #23 ##########
+
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+Arrival Time: 527
+Total Enroute Time: 469
+Time in Space: 128
+
+########## Itinerary #24 ##########
+
+USS Enterprise	Corporate Sector	27	Coruscant	42
+USS Enterprise	Coruscant	116	Corellia	120
+Heart of Gold	Corellia	162	Alderaan	168
+Heart of Gold	Alderaan	172	Tatooine	179
+Heart of Gold	Tatooine	183	Bespin	199
+Heart of Gold	Bespin	267	Endor	299
+Andromeda Ascendant	Endor	414	Hoth	474
+Andromeda Ascendant	Hoth	478	Sullust	500
+
+Arrival Time: 500
+Total Enroute Time: 473
+Time in Space: 162
+
+########## Itinerary #25 ##########
+
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+Arrival Time: 527
+Total Enroute Time: 422
+Time in Space: 89
+
+########## Itinerary #26 ##########
+
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+Arrival Time: 527
+Total Enroute Time: 438
+Time in Space: 101
+
+########## Itinerary #27 ##########
+
+Serenity	Mon Calamari	26	Bakura	48
+Red Dwarf	Bakura	58	Kessel	85
+Red Dwarf	Kessel	89	Hapes Cluster	101
+Red Dwarf	Hapes Cluster	105	Corporate Sector	112
+USS Enterprise	Corporate Sector	151	Coruscant	166
+USS Enterprise	Coruscant	240	Corellia	244
+Heart of Gold	Corellia	375	Yaga Minor	387
+Moya	Yaga Minor	472	Wayland	502
+Moya	Wayland	506	Myrkr	527
+
+Arrival Time: 527
+Total Enroute Time: 501
+Time in Space: 150
+
