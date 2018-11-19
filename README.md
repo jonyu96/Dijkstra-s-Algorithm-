@@ -1,4 +1,4 @@
-# Dijkstra's Algorithm 
+# Star War's Dijkstra's Algorithm 
 
 This was a final class project from Professor's Morris Bernstein's CSS 343. The objective of this project was to define a working route structure of each planet in the Star Wars Galaxy using the given travel times (shown in the image below)
 and use Dijkstra's Algorithm to find the longest shortest-path from one planet to another. Some given limitations were: 
